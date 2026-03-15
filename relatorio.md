@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 15/03/2026
-Empresa: Farmácia Fictícia
-Responsável: Victor
+Empresa: Abstergo Industries
+Responsável: Gabriel Victor
 
 ## Introdução
 Este relatório apresenta o processo de implementação de infraestrutura na empresa Farmácia Fictícia, realizado por Victor. O objetivo do projeto foi elencar 3 serviços AWS essenciais, com a finalidade de conceber e projetar uma plataforma virtual para a farmácia e realizar a diminuição de custos imediatos por meio do modelo de nuvem sob demanda.
